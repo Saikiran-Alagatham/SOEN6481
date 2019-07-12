@@ -1,0 +1,29 @@
+﻿Gelfond’s Constant
+
+
+Gelfond’s Constant is a Transcendental Number,  a Transcendental Number is a number which is not an Algebraic number. This constant is named after Aleksandr Gelfond and it is represented as
+‘eπ’  that is e raised to the power Pie.
+
+
+The value of Gelfond’s constant is:
+eπ  =23.14069263277926900572908636794854738………
+
+
+           eπ= (eπi )-i= (-1)-i
+
+
+Here i is imaginary, Since -i is no algebraic, we can say eπ is Transcendental 
+
+
+USAGE:
+This constant is used in 
+* Gelfond–Schneider theorem,
+* Hilbert's seventh problem,
+* Ramanjuna’s Constant.
+
+
+CONSTRUCTION:
+Assume   k0=  1/√2  and
+  
+
+When n > 0 the sequence expands and becomes
