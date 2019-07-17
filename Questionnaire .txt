@@ -1,0 +1,11 @@
+﻿1.  What best defines you?
+2.  Numbers and constants( e.g pie) , How important are they in your field?
+3.  What is the significance of constants in the mathematical field?
+4.  How many types of calculators did u use, What do modern scientific calculators lag in?
+5.  What are the features u wish u had in a modern calculator?
+6.  What do u know about Gelfond's constant?
+7.  What are the uses of Gelfond's constant and what will the future?
+8.  What are the requirements to build a calculator to perform operations on  constants?
+9.  Which the most widely used constant and what is its  significance?
+10.  What device do you generally use for the complex calculations in your field?
+11.  What kind of user interface would you like for the device?
