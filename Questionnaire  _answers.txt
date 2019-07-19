@@ -1,0 +1,35 @@
+﻿1.  What best defines you?
+ I’m a Chartered Accountant, presently working at A….. I have 5 years of experience in this field , worked for various companies from startups to MNC’s. My main responsibilities would be managing budgets , Financial auditing, advising regarding taxes and financial risks etc..
+
+
+1.  Numbers and constants( e.g pie) , How important are they in your field?
+According to me ‘e’ and ‘pie’ are most important constants in mathematical field.
+‘e’ is used mainly in Accounts and Banking sector , Where as ‘Pie’ in Geometry. One would assume they would get more interest for a sum per year, compared to six months or 3 months or each month. ‘e’ helped to clear that assumptions.
+
+
+1.  What do u know about Gelfond's constant?
+Not Much, apart from that it used in gelfond-schneider theorem and hilbert's seventh problem.
+
+
+1.  What are the uses of Gelfond's constant and what will the future?
+The same hilbert's seventh problem and gelfond-schneider theorem. Regarding future of the constant, I think it pretty much remain the same.
+
+
+1.  What are the requirements to build a calculator to perform operations on  constants?
+The main factor would be the precision , especially when it comes to multiplying constants and presenting the result with appropriate decimal point .
+
+
+1.  Which the most widely used constant and what is its  significance?
+I would pick Pie, because of its huge impact in geometrical field. The other would be golden ratio(1.6168) , even this belong to the same family of Pie.
+
+
+1.  What device do you generally use for the complex calculations in your field?
+A regular calculator and a Scientific Calculator. If it's really different I use a site called  ‘vCalc’, it offers a huge range of scientific formula related calculators.
+
+
+1.  What kind of user interface would you like for the device?
+A simple regular interface, with standard layout of buttons, because if its personalised to yourself then we can’t build a standard calculator which can be used all.
+
+
+1.  What are the features u wish u had in a modern calculator?
+I want to add personalized buttons which I use mostly during calculations, that being said  it will not become a standard calculator. So A button to store a value that I want to store will be fine.
